@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Srignan/WeatherWebsite.git"
+    "url": "git+https://github.com/Srignan/Weather.git"
   },
   "author": "Srignan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Srignan/WeatherWebsite/issues"
+    "url": "https://github.com/Srignan/Weather/issues"
   },
-  "homepage": "https://github.com/Srignan/WeatherWebsite#readme",
+  "homepage": "https://github.com/Srignan/Weather#readme",
   "devDependencies": {
     "@webpack-cli/generators": "^2.5.0",
     "webpack-cli": "^4.10.0"
